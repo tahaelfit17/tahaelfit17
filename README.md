@@ -1,59 +1,55 @@
 # 👋 Hi, I'm Taha
 
-Computer Science undergraduate with a strong interest in **building real skills beyond the classroom**.  
-Currently focused on strengthening my foundations in programming, problem-solving, and systems thinking.
+Computer Science student focused on systems programming, AI/ML, and low-level software development.
 
-I believe in learning by doing, consistency over hype, and growing step by step.
+Currently building strong foundations in computer science through hands-on projects, self-learning, and practical experimentation with Linux environments, performance-oriented programming, and scalable systems.
 
 ---
 
-## 🎓 Academic Background
-- Bachelor’s degree in **Computer Science**
-- Core subjects I study / have studied:
-  - Programming Fundamentals
-  - Data Structures & Algorithms
-  - Numerical Methods
-  - Assembly Language
-  - Computer Architecture
-  - Discrete Mathematics
-  - Databases
-  - Operating Systems (basics)
+## 🎓 Education
+
+Bachelor’s degree in Computer Science
+
+Relevant topics:
+- Data Structures & Algorithms
+- Computer Architecture
+- Assembly Language
+- Numerical Methods
+- Databases
+- Operating Systems
+- Discrete Mathematics
 
 ---
 
 ## 💻 Technical Interests
-- Low-level understanding of computers
-- Problem solving & logical thinking
-- Programming fundamentals (C, Python)
-- Algorithms & efficiency
-- Systems & performance
+
+- Systems Programming (C)
+- Linux & Server Environments
+- AI/ML Fundamentals
+- High-Performance Computing
+- Algorithms & Optimization
+- Low-level Problem Solving
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Languages: C, Python, SQL
+- Tools: Git, GitHub, Docker
+- Platforms: Linux, Windows
+- Learning: Documentation, research papers, online courses, hands-on experimentation
 
 ---
 
 ## 🚀 Current Focus
-- Strengthening CS fundamentals
-- Completing structured online courses
-- Building small projects to apply concepts
-- Improving technical English (reading & listening)
+
+- Building practical projects
+- Strengthening low-level programming skills
+- Exploring AI systems and scalable software design
+- Improving problem-solving and technical depth
 
 ---
 
-## 🛠️ Tools & Technologies
-- Languages: C, Python (learning & improving)
-- Version Control: Git & GitHub
-- Platforms: Linux / Windows
-- Learning Platforms: edX, online lectures, documentation
+## 📌 About This GitHub
 
----
-
-## 🧠 Mindset
-- Discipline > motivation
-- Progress over perfection
-- Long-term growth over shortcuts
-
----
-
-## 📌 Notes
-This GitHub is a space to document learning, experiments, and gradual improvement.  
-Not everything here is perfect — but everything here is intentional.
-
+This GitHub documents my learning journey, experiments, and personal projects as I continue growing in computer science and software engineering.
