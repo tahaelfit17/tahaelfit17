@@ -15,14 +15,14 @@ I enjoy building efficient software, exploring Linux internals, working close to
 
 ## 🛠️ Technologies
 
-Languages
+### Languages
 
 - C
 - C++
 - Python
 - SQL
 
-Tools
+### Tools
 
 - Linux
 - Git & GitHub
@@ -47,7 +47,7 @@ Tools
 
 ## 📫 Contact
 
-- GitHub: github.com/tahaelfit17
-- Email: tahaelfit@gmail.com
+- GitHub: **@tahaelfit17**
+- Email: **tahaelfit@gmail.com**
 
-«Always learning, always building.»
+> *Always learning, always building.*
