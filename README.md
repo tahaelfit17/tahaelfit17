@@ -1,28 +1,65 @@
-👋 Hi, I'm Taha
+Hi, I'm Taha 👋
 
-Computer Science student passionate about systems programming, Linux, and performance-oriented software.
+Computer Science student with a strong interest in Systems Programming, AI Systems, and High-Performance Computing.
 
-Currently focused on building strong foundations in computer science through hands-on projects, low-level programming in C, Linux environments, Docker, and practical experimentation.
+I enjoy building efficient software, working close to the hardware, exploring Linux internals, and continuously improving my engineering skills through hands-on projects and practical experimentation.
 
-💻 Interests
+---
 
-• Systems Programming
-• Linux & Server Environments
-• AI Systems
-• High-Performance Computing
-• Algorithms & Optimization
+💻 Areas of Interest
 
-🛠️ Tools & Technologies
+- Systems Programming
+- Linux & Operating Systems
+- AI Systems
+- High-Performance Computing (HPC)
+- Algorithms & Data Structures
+- Performance Optimization
 
-• C, Python, SQL
-• Git, GitHub, Docker
-• Linux, Windows
+---
 
-🚀 Current Goals
+🛠️ Technologies
 
-• Build practical projects
-• Improve low-level programming skills
-• Learn CUDA and AI infrastructure
-• Develop deeper systems knowledge
+Languages
 
-This GitHub serves as a collection of my projects, experiments, and learning progress as I continue growing as a software engineer.
+- C
+- C++
+- Python
+- SQL
+
+Tools
+
+- Linux
+- Git & GitHub
+- Docker
+- Bash
+- Windows
+
+---
+
+🚀 Currently Learning
+
+- Advanced C++ and Modern C++
+- CUDA Programming
+- Machine Learning Systems
+- Distributed Systems
+- Performance Engineering
+
+---
+
+📌 Current Focus
+
+- Building practical, production-quality projects
+- Writing clean, efficient, and maintainable code
+- Strengthening computer science fundamentals
+- Exploring low-level software and system architecture
+
+---
+
+📫 Contact
+
+- GitHub: github.com/tahaelfit17
+- Email: tahaelfit@gmail.com
+
+---
+
+«"Always learning, always building."»
