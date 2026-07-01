@@ -45,6 +45,10 @@ I enjoy building efficient software, exploring Linux internals, working close to
 - Strengthening computer science fundamentals
 - Exploring low-level software and system architecture
 
+## 📌 Featured Projects
+
+> Coming soon...
+
 ## 📫 Contact
 
 - GitHub: **@tahaelfit17**
