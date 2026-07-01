@@ -1,10 +1,8 @@
-Hi, I'm Taha 👋
+# Hi, I'm Taha 👋
 
 Computer Science student with a strong interest in Systems Programming, AI Systems, and High-Performance Computing.
 
-I enjoy building efficient software, working close to the hardware, exploring Linux internals, and continuously improving my engineering skills through hands-on projects and practical experimentation.
-
----
+I enjoy building efficient software, exploring Linux internals, working close to the hardware, and continuously improving my engineering skills through hands-on projects and practical experimentation.
 
 💻 Areas of Interest
 
@@ -14,8 +12,6 @@ I enjoy building efficient software, working close to the hardware, exploring Li
 - High-Performance Computing (HPC)
 - Algorithms & Data Structures
 - Performance Optimization
-
----
 
 🛠️ Technologies
 
@@ -34,8 +30,6 @@ Tools
 - Bash
 - Windows
 
----
-
 🚀 Currently Learning
 
 - Advanced C++ and Modern C++
@@ -44,8 +38,6 @@ Tools
 - Distributed Systems
 - Performance Engineering
 
----
-
 📌 Current Focus
 
 - Building practical, production-quality projects
@@ -53,13 +45,9 @@ Tools
 - Strengthening computer science fundamentals
 - Exploring low-level software and system architecture
 
----
-
 📫 Contact
 
 - GitHub: github.com/tahaelfit17
 - Email: tahaelfit@gmail.com
 
----
-
-«"Always learning, always building."»
+«Always learning, always building.»
