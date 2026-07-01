@@ -4,7 +4,7 @@ Computer Science student with a strong interest in Systems Programming, AI Syste
 
 I enjoy building efficient software, exploring Linux internals, working close to the hardware, and continuously improving my engineering skills through hands-on projects and practical experimentation.
 
-💻 Areas of Interest
+## 💻 Areas of Interest
 
 - Systems Programming
 - Linux & Operating Systems
@@ -13,7 +13,7 @@ I enjoy building efficient software, exploring Linux internals, working close to
 - Algorithms & Data Structures
 - Performance Optimization
 
-🛠️ Technologies
+## 🛠️ Technologies
 
 Languages
 
@@ -30,7 +30,7 @@ Tools
 - Bash
 - Windows
 
-🚀 Currently Learning
+## 🚀 Currently Learning
 
 - Advanced C++ and Modern C++
 - CUDA Programming
@@ -38,14 +38,14 @@ Tools
 - Distributed Systems
 - Performance Engineering
 
-📌 Current Focus
+## 📌 Current Focus
 
 - Building practical, production-quality projects
 - Writing clean, efficient, and maintainable code
 - Strengthening computer science fundamentals
 - Exploring low-level software and system architecture
 
-📫 Contact
+## 📫 Contact
 
 - GitHub: github.com/tahaelfit17
 - Email: tahaelfit@gmail.com
