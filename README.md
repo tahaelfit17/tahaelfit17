@@ -47,7 +47,7 @@ I enjoy building efficient software, exploring Linux internals, working close to
 
 ## 📌 Featured Projects
 
-> Coming soon...
+Projects will be added here as I continue building software in systems programming, AI systems, and high-performance computing.
 
 ## 📫 Contact
 
