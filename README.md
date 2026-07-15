@@ -52,6 +52,6 @@ Projects will be added here as I continue building software in systems programmi
 ## 📫 Contact
 
 - GitHub: **@tahaelfit17**
-- Email: **tahaelfit@gmail.com**
+- Email: **tahaelfitouri@gmail.com**
 
 > *Always learning, always building.*
