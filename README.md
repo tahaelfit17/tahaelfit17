@@ -51,7 +51,6 @@ Projects will be added here as I continue building software in systems programmi
 
 ## 📫 Contact
 
-- Email: **tahaelfitouri@gmail.com**
 - Email: **tahaelfitouri@outlook.com**
 
 > *Always learning, always building.*
